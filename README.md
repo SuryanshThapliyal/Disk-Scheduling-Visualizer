@@ -86,6 +86,10 @@ Contributions are welcome. Suggested improvements:
 - Add unit tests for algorithm correctness and edge cases.
 - Improve the visualization (PID colors, merged segments, zoom, interactive cursor).
 
+Deployment
+
+https://diskschedulingvisualiser.vercel.app
+
 License
 
 This project is provided as-is for learning and demonstration. Add a license file if you plan to share or distribute it commercially.
